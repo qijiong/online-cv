@@ -28,7 +28,30 @@
       </span>
 
       {% if project.tagline %}
-      - <span class="project-tagline">{{ project.tagline }}</span>
+        {% for tl in project.tagline %}
+          <hr>
+          <p class="project-tagline">{{ tl.summary }}</p>
+          {% if tl.lights %}
+            <p><strong>亮点与特色:</strong></p>
+            {% for l in tl.lights %}
+              <div class="project-tagline">{{ l }}</div>
+            {% endfor %}
+            <br>
+          {% endif %}
+          {% if tl.achieves %}
+            <p><strong>成果与收获:</strong></p>
+            {% for s in tl.achieves %}
+              <div class="project-tagline">{{ s }}</div>
+            {% endfor %}
+            <br>
+          {% endif %}
+          {% if tl.difficults %}
+            <p><strong>问题与难点:</strong></p>
+            {% for p in tl.difficults %}
+              <div class="project-tagline">{{ p }}</div>
+            {% endfor %}
+          {% endif %}
+        {% endfor %}
       {% endif %}
 
     </div><!--//item-->
