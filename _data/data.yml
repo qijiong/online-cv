@@ -7,183 +7,108 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: 郑启煚
+    tagline: 体育教师/教练
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: 1053563631@qq.com
+    phone: 13026115121
+    website:
+    linkedin: 1995年9月
+    github:
     gitlab:
     bitbucket:
     twitter: '@webjeda'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    goodreads: 1年工作经验
 
     languages:
-      - idiom: English
-        level: Native
+      - idiom: 英语
+        level: 四级
 
-      - idiom: French
-        level: Professional
+      - idiom: 普通话
+        level: 二级甲等
 
-      - idiom: Spanish
-        level: Professional
+    certificates:
+      - idiom: 田径裁判证
+        level: 国家一级
+
+      - idiom: 田径裁判证
+        level: 国家二级
+
+      - idiom: 乒乓球裁判证
+        level: 国家二级
 
     interests:
-      - item: Climbing
-        link:
-
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
+      - item: 看书 旅游 锻炼
         link:
 
 career-profile:
-    title: Career Profile
+    title: 个人简介
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      积极乐观、认真负责、踏踏实实的工作态度是我的职业操守！待人诚恳，平易近人、与人为善是我的人生信条！
+      我在体育相关的项目上有非常不错的教学技能，如田径、篮球、足球、排球、乒乓球、武术、体操、游泳等运动项目。曾经带领过多个学校班级进行
+      体育课程的学习与锻炼，深受学生喜爱！同时我酷爱体育锻炼,  喜欢用更科学的方法让身体得以放松和加强！
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+    - degree: 本科学士
+      university: 武汉体育学院
+      time: 2015 - 2019
+      speciality: 体育教育
+
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: 体育课科任教师
+      time: 2019-07 至 2020-02
+      company: 福清西山小学
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        负责带领小学部13个班级的体育课程,  课程内容包括热身、体育项目介绍、实操演练、注意事项讲解，以及后续提高方法等；
+        同时担任学习田径精英特长班的指导教练，负责他们的的"魔鬼训练", 为他们制定更加科学的训练方法以及更加有效的学习方式。
+
 projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    title: 实践经验
+    intro:
     assignments:
       - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "组织学校中善于运动、喜欢运动的学生进行更加科学、高效的锻炼和学习，以便他们能够发挥自身的长处，为自己以及学校争光."
 
       - title: DevStudio
-        link: "#"
         tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
 publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+    title: 个人荣誉
+    intro:
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: 福清市市运会优秀指导员
+        authors: 所指导团队在27支队伍中荣获市运动会第三名的成绩
+        conference: 2019-09
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: 武汉体育学院优秀运动员
+        authors: 在体教运动会中获得乙组标枪第二名，乙组排球联赛第二名的成绩
+        conference: 2017-10
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: 大田第一中学精英运动员
+        authors: 在第52届校运会100米(破年段记录)以及400米(破校最高纪录)取得第一名的成绩
+        conference: 2013-05
 
 skills:
-    title: Skills &amp; Proficiency
+    title: 技能 & 经验
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: 运动训练/教学
+        level: 75%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: 运动营养
+        level: 70%
 
-      - name: Angular
-        level: 98%
+      - name: 运动生理
+        level: 65%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: 田径
+        level: 90%
 
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: 其他体育运动
+        level: 80%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">郑启煚</a>
