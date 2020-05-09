@@ -62,9 +62,6 @@ projects:
     title: 实践经验
     intro:
     assignments:
-      - title: Velocity
-        tagline: "组织学校中善于运动、喜欢运动的学生进行更加科学、高效的锻炼和学习，以便他们能够发挥自身的长处，为自己以及学校争光."
-
       - title: 田径精英特长班训练指导
         tagline:
           - lights:  # 亮点与特色
